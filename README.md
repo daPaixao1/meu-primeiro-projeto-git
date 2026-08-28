@@ -2,7 +2,7 @@
 Git.**Autor:** Caue da P. Gomes **Curso:** Tecnico em Segurança Cibernetica**Disciplina:** Banco de Dados **Data:**
 28/08/2026 ## O que estou aprendendo- Comandos básicos do Git- Como fazer commits- Como trabalhar com
 repositórios remotos# meu-primeiro-projeto-git
-Repositório para aprender GIT - Estudo Dirigido
+Repositório para aprender Git - Estudo Dirigido
 
 **Meu primeiro projeto GIT!!!**
 
